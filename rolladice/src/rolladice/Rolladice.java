@@ -1,4 +1,6 @@
 
+//NOT FINISHED. Everything works except using keys to run program.
+
 package rolladice;
 
 import java.util.Random;
