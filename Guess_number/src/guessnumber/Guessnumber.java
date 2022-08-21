@@ -17,7 +17,7 @@ public class Guessnumber {
                   //double num2 =sc.nextDouble();}
                
                
-               
+                //  It's NOT FINISHED YET!
                
                 
               /* it's good to add "for loop" which will execute the code until you guess the number. It won't close the program before the time
@@ -32,7 +32,7 @@ public class Guessnumber {
                
                                                                       
                 } }
-               // NOT FINISHED YET!
+              
                    
                
               
