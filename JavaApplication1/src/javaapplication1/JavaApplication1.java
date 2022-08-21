@@ -9,9 +9,8 @@ import java.util.Scanner;
  */
 public class JavaApplication1 {
 
-    /**
-     * @param args the command line arguments
-     */
+//Testing different data types in Java   
+
     public static void main(String[] args) {
         System.out.println("Hello World");
         String name ="Dar";
@@ -20,7 +19,8 @@ public class JavaApplication1 {
         double iq =167.123;
         System.out.println("name="+" "+name +" "+"age="+" "+age+" "+"city="+" "+ city+" "+"iq="+" "+iq);
 
-        System.out.println("wrtite the number");
+// Getting input from user and making actions based on it
+        System.out.println("Enter the number");
         Scanner sc = new Scanner(System.in);
         int number = sc.nextInt();
         if(number>0) {
