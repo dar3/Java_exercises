@@ -1,5 +1,4 @@
 package com.dar3.loops;
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 
